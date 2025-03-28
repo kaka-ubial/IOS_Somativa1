@@ -15,3 +15,5 @@ Este projeto simula o envio de notificações através de diferentes canais: Ema
 ## Tecnologias
 - Swift
 
+## Aluna
+Karen Ubial Pereira
